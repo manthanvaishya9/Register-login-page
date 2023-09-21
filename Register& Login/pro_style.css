@@ -1,0 +1,23 @@
+input[type="text"], input[type="password"]
+{
+	font-family: calibari;
+	font color: black;
+	font-size: 20px;
+	background: palegoldenrod;
+	width: 200px;
+}
+table
+{
+	font-family: arial;
+	font size: 40px;
+	 color: crimson;
+	 border-spacing: 30px;
+
+
+}
+input[type="button"], input[type="submit"]
+{
+	border: black;
+	background: greenyellow;
+	font-size: 30px;
+}
